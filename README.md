@@ -1,1 +1,3 @@
-# biomolecular
+# Biomolecular
+
+Trabajando con exomas
